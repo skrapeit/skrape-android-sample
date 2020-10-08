@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Skrape Android Sample</string>
+    <string name="bullet_format">• %s</string>
+</resources>
